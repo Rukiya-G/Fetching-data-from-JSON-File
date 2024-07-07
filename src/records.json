@@ -1,0 +1,43 @@
+[
+  {
+    "title":"Student Eligibility List",
+    "id":195,
+    "name":"P.Mastan",
+    "branch":"CSE"
+  },
+  {
+    "id":222,
+    "name":"O.Kavya",
+    "branch":"CSE"
+  },
+  {
+    "id":528,
+    "name":"P.RaviTeja",
+    "branch":"MECH"
+  },
+  {
+    "id":324,
+    "name":"E.Ramya",
+    "branch":"EEE"
+  },
+  {
+    "id":225,
+    "name":"K.Ramu",
+    "branch":"CSE"
+  },
+  {
+    "id":296,
+    "name":"A.Lavanya",
+    "branch":"CIVIL"
+  },
+  {
+    "id":427,
+    "name":"V.Swathi",
+    "branch":"AIDS"
+  },
+  {
+    "id":498,
+    "name":"B.Yashwitha",
+    "branch":"AIML"
+  }
+]
